@@ -12,7 +12,7 @@ The project is powered by the **Hugging Face API** and offers a sleek, futuristi
 ## 📽️ Demo Video
 Watch the demonstration of **ImaginX** in action:  
 
-[![ImaginX Demo](https://img.shields.io/badge/▶️%20Watch%20Demo-blue?style=for-the-badge)](DEMO%20IMAGINX.mp4)
+[https://github.com/Geekyanup06/Imagin-X/blob/main/DEMO%20IMAGINX.mp4]
 
 ---
 
@@ -34,10 +34,10 @@ Watch the demonstration of **ImaginX** in action:
 
 ## 🚀 Getting Started
 
-### 1️⃣ Clone the Repository
+### 1️⃣ Clone of the Repository
+https://github.com/Geekyanup06/Imagin-X
 
-git clone https://github.com/your-username/ImaginX.git
-cd ImaginX
+
 
 
 2️⃣ Open the Project
